@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Join">
+    <output-path>$PROJECT_DIR$/out/artifacts/Join</output-path>
+    <root id="archive" name="Join.jar">
+      <element id="module-output" name="Join" />
+      <element id="module-source" name="Join" />
+    </root>
+  </artifact>
+</component>
